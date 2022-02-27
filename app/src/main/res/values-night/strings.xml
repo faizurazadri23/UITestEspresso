@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_main">Mencari Luas Segitiga Sama Kaki</string>
+    <string name="txt_alas">Alas</string>
+    <string name="txt_tinggi">Tinggi</string>
+    <string name="txt_hitung">HITUNG</string>
+    <string name="txt_hasil">HASIL</string>
+    <string name="txt_alert_input_alas">Alas Wajib diisi</string>
+    <string name="txt_alert_input_tinggi">Tinggi Wajib diisi</string>
+</resources>
